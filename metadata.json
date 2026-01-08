@@ -1,0 +1,8 @@
+{
+  "name": "Nova AI Extension Dashboard",
+  "description": "A high-performance AI dashboard for Chrome that injects a floating command center into any webpage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
